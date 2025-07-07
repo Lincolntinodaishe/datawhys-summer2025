@@ -20,6 +20,4 @@ This repository contains my work from the **DataWhys Internship Program** at the
 ```bash
 notebooks/       # All Jupyter notebooks (EDA, modeling, visualization)
 data/            # Raw and cleaned datasets (anonymized)
-outputs/         # Charts, reports, final results
-images/          # Screenshots of dashboards or visualizations
 requirements.txt # Python dependencies
